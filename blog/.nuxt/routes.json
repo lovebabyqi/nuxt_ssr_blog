@@ -1,0 +1,30 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "E:\\\\练手demo\\\\zhangmeng\\\\my-bolg-nuxt\\\\pages\\\\about\\\\index.vue",
+    "chunkName": "pages/about/index",
+    "_name": "_3bebd793"
+  },
+  {
+    "name": "readBlog",
+    "path": "/readBlog",
+    "component": "E:\\\\练手demo\\\\zhangmeng\\\\my-bolg-nuxt\\\\pages\\\\readBlog\\\\index.vue",
+    "chunkName": "pages/readBlog/index",
+    "_name": "_151ef77c"
+  },
+  {
+    "name": "write",
+    "path": "/write",
+    "component": "E:\\\\练手demo\\\\zhangmeng\\\\my-bolg-nuxt\\\\pages\\\\write\\\\index.vue",
+    "chunkName": "pages/write/index",
+    "_name": "_e1e5c7fe"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "E:\\\\练手demo\\\\zhangmeng\\\\my-bolg-nuxt\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3a8a38d4"
+  }
+]

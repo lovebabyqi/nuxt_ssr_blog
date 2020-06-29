@@ -1,0 +1,26 @@
+{
+  "Footer": {
+    "description": "Auto imported from components/footer/Footer.vue"
+  },
+  "LazyFooter": {
+    "description": "Auto imported from components/footer/Footer.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/header/Header.vue"
+  },
+  "LazyHeader": {
+    "description": "Auto imported from components/header/Header.vue"
+  },
+  "HomeItem": {
+    "description": "Auto imported from components/homeItem/HomeItem.vue"
+  },
+  "LazyHomeItem": {
+    "description": "Auto imported from components/homeItem/HomeItem.vue"
+  },
+  "Tool": {
+    "description": "Auto imported from components/tool/Tool.vue"
+  },
+  "LazyTool": {
+    "description": "Auto imported from components/tool/Tool.vue"
+  }
+}
